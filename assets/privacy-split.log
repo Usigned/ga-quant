@@ -1,0 +1,18 @@
+tensor(1., device='cuda:0')
+0.0
+tensor(1.3504, device='cuda:0')
+6046310.4
+tensor(3.5209, device='cuda:0')
+24363622.4
+tensor(4.6064, device='cuda:0')
+46940774.4
+tensor(4.7357, device='cuda:0')
+92095078.4
+tensor(4.7958, device='cuda:0')
+132285030.4
+tensor(5.1204, device='cuda:0')
+212664934.4
+tensor(5.4065, device='cuda:0')
+268149350.4
+tensor(5.8008, device='cuda:0')
+323633766.4

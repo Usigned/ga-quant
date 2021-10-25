@@ -1,0 +1,164 @@
+res 18 8-bit
+1 blocks, 2 layers
+0.0762025984
+2 blocks, 4 layers
+0.1463588864
+3 blocks, 7 layers
+0.2056034304
+4 blocks, 9 layers
+0.27887267839999996
+5 blocks, 12 layers
+0.35024138239999997
+6 blocks, 14 layers
+0.4405499904
+7 blocks, 17 layers
+0.5661497343999999
+8 blocks, 19 layers
+0.7269095423999999
+
+res18 32-bit
+1 blocks, 2 layers
+0.2640222208
+2 blocks, 4 layers
+0.5219981311999999
+3 blocks, 7 layers
+0.7413602304
+4 blocks, 9 layers
+1.0117879807999999
+5 blocks, 12 layers
+1.27964672
+6 blocks, 14 layers
+1.6182319104
+7 blocks, 17 layers
+2.1030148096000003
+8 blocks, 19 layers
+2.7234048
+
+res50 8-bit
+1 blocks, 4 layers
+0.0788240384
+2 blocks, 7 layers
+0.1504712704
+3 blocks, 10 layers
+0.2221185024
+4 blocks, 14 layers
+0.3498481664
+5 blocks, 17 layers
+0.4217411584
+6 blocks, 20 layers
+0.49363415039999997
+7 blocks, 23 layers
+0.5655271424
+8 blocks, 27 layers
+0.7089854463999999
+9 blocks, 30 layers
+0.7956240384
+10 blocks, 33 layers
+0.8822626304
+11 blocks, 36 layers
+0.9689012224
+12 blocks, 39 layers
+1.0555398143999999
+13 blocks, 42 layers
+1.1421784064
+14 blocks, 46 layers
+1.3726357504000002
+15 blocks, 49 layers
+1.5251380224000002
+16 blocks, 52 layers
+1.6776402944000002
+
+res 50 32-bit
+1 blocks, 4 layers
+0.0788240384
+2 blocks, 7 layers
+0.1504712704
+3 blocks, 10 layers
+0.2221185024
+4 blocks, 14 layers
+0.3498481664
+5 blocks, 17 layers
+0.4217411584
+6 blocks, 20 layers
+0.49363415039999997
+7 blocks, 23 layers
+0.5655271424
+8 blocks, 27 layers
+0.7089854463999999
+9 blocks, 30 layers
+0.7956240384
+10 blocks, 33 layers
+0.8822626304
+11 blocks, 36 layers
+0.9689012224
+12 blocks, 39 layers
+1.0555398143999999
+13 blocks, 42 layers
+1.1421784064
+14 blocks, 46 layers
+1.3726357504000002
+15 blocks, 49 layers
+1.5251380224000002
+16 blocks, 52 layers
+1.6776402944000002
+
+
+mob 8b
+1 blocks, 0 layers
+0.0031460352000000002
+2 blocks, 2 layers
+0.0065965312
+3 blocks, 4 layers
+0.010374323199999999
+4 blocks, 6 layers
+0.0159638272
+5 blocks, 8 layers
+0.0193609472
+6 blocks, 10 layers
+0.025172147199999998
+7 blocks, 12 layers
+0.030116531199999998
+8 blocks, 14 layers
+0.0395137792
+9 blocks, 16 layers
+0.048911027200000005
+10 blocks, 18 layers
+0.0583082752
+11 blocks, 20 layers
+0.0677055232
+12 blocks, 22 layers
+0.0771027712
+13 blocks, 24 layers
+0.0897366272
+14 blocks, 26 layers
+0.1147585792
+
+mob 32b
+1 blocks, 0 layers
+0.0031460352000000002
+2 blocks, 2 layers
+0.0162304
+3 blocks, 4 layers
+0.0306681856
+4 blocks, 6 layers
+0.0516794368
+5 blocks, 8 layers
+0.0646166528
+6 blocks, 10 layers
+0.08655892479999999
+7 blocks, 12 layers
+0.105696256
+8 blocks, 14 layers
+0.14200483839999997
+9 blocks, 16 layers
+0.17831342079999996
+10 blocks, 18 layers
+0.21462200319999994
+11 blocks, 20 layers
+0.2509305855999999
+12 blocks, 22 layers
+0.2872391679999999
+13 blocks, 24 layers
+0.33713991679999983
+14 blocks, 26 layers
+0.43595837439999985
